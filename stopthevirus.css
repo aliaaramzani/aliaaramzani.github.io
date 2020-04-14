@@ -1,0 +1,59 @@
+#welcome {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: navy;
+    font-weight: bold;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    height: 45px;
+}
+
+#startGame {
+    font-family:  Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 55px;
+    background-color: navy;
+    color: white;
+    width: 100px;
+    height: 35px;
+}
+
+#scorelabel {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: navy;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 25px;
+}
+
+#pageTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: navy;
+    font-weight: bold;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    height: 45px;
+}
+
+#gameArea {
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    border: 1px navy solid;
+}
+
+#virus {
+    background: transparent;
+    border: 0px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    width: 80px;
+    height: 80px;
+}
